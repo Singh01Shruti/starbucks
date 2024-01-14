@@ -1,3 +1,3 @@
 # Project Title
 
-A starbucks rewards page.
+A starbucks rewards page built with React.
