@@ -1,0 +1,19 @@
+.section1{
+    padding-left: 650px;
+    padding-top: 100px;
+}
+
+.section2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 50px;
+    text-align: center;
+    gap: 10px;
+}
+
+.section3{
+    margin-right: 70px;
+}
+
